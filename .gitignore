@@ -1,0 +1,7 @@
+config.properties
+.classpath
+.project
+.settings
+bin
+target
+*.swp

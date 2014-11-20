@@ -1,0 +1,14 @@
+# The token you need to access to the API 
+# You can retrieve it from your profile page in the DareBoost application
+# (https://www.dareboost.com/profile/api)
+api.token=tokenId
+
+# The url to access the API
+# ! This sould not be changed
+api.url=http://localhost:9000/api/0.1/
+
+# The location to use when launch an audit
+# This is just to simplify test purpose
+# By the way you should not do the same when using the API
+# You should request the config and get an available location from it
+api.easytest.config.location=new-york
