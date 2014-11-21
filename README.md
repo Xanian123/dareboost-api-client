@@ -7,9 +7,8 @@ Some samples of use are available in the test folder:
 
 	src/test/java/dareboost/api/client/DareBoostAPIClientTest.java
 
-You can also see the full API documentation :
+You can also see the full API documentation : https://www.dareboost.com/vassets/DareBoostAPIUserDocumentation.pdf
 
-	https://www.dareboost.com/vassets/DareBoostAPIUserDocumentation.pdf
 
 Configuration
 -------------
