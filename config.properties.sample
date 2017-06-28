@@ -1,7 +1,7 @@
 # The token you need to access to the API 
 # You can retrieve it from your profile page in the DareBoost application
 # (https://www.dareboost.com/profile/api)
-api.token=tokenId
+api.token=5952656f0cf2ac01150e0790
 
 # The url to access the API
 # ! This sould not be changed
